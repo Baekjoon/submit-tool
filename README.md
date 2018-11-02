@@ -1,4 +1,4 @@
-# 더 이상 지원하지 않습니다. BOJ API가 출시되면 출시될 새 버전을 기다려주세요
+# 더 이상 지원하지 않습니다.
 
 # [Baekjoon Online Judge](http://www.acmicpc.net/) Submit Tool
 
